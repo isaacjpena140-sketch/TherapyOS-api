@@ -1,6 +1,9 @@
 {
   "name": "therapyos-api",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.20.0",
     "twilio": "^4.19.0",
